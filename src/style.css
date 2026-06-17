@@ -20,6 +20,10 @@ a{
   text-decoration: underline;
 }
 
+a:focus{
+  color: red;
+}
+
 .gallery .CV {
   background-color: #c8caa2;
   margin-left: 20vw;
