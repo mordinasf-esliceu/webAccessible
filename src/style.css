@@ -26,7 +26,7 @@ a:focus{
 }
 
 .gallery .CV {
-  background-color: #c8caa2;
+  background-color: #f6f8d2;
   margin-left: 20vw;
   margin-right: 20vw;
   text-align: left;
@@ -42,7 +42,7 @@ a:focus{
 body {
   margin: 0;
   font-family: sans-serif;
-  background-color: #d4d9df;
+  background-color: #f6faff;
 }
 
 .header {
