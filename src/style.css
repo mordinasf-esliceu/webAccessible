@@ -16,6 +16,10 @@ h1 {
   width: 100vw;
 }
 
+a{
+  text-decoration: underline;
+}
+
 .gallery .CV {
   background-color: #c8caa2;
   margin-left: 20vw;
