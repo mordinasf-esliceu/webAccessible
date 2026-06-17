@@ -19,8 +19,8 @@ h1 {
 a{
   text-decoration: underline;
   color: blue;
-  margin-top: 2vh;
-  margin-bottom: 2vh;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
 }
 
 a:focus{
