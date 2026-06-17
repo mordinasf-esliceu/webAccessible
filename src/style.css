@@ -18,15 +18,15 @@ h1 {
 
 .gallery .CV {
   background-color: #c8caa2;
-  margin-left: 35vw;
-  margin-right: 35vw;
+  margin-left: 25vw;
+  margin-right: 25vw;
   text-align: left;
 }
 
 .gallery div {
   text-align: left;
   margin-top: 2vh;
-  width: 100vw;
+  width: 60vw;
   font-size: x-large;
 }
 
