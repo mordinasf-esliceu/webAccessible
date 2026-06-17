@@ -23,6 +23,11 @@ a{
   margin-bottom: 4vh;
 }
 
+br{
+  margin-top: 4vh;
+  margin-bottom: 4vh;
+}
+
 a:focus{
   color: red;
 }
